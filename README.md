@@ -9,7 +9,7 @@
 
 <img  src="./coder.gif" height="250px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://mitrarnab.github.io/portfolio/)**
+- 🙋‍♂️ All about me is at **[My Website](https://arnabmitra.vercel.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
