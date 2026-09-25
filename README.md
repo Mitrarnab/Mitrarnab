@@ -1,83 +1,128 @@
-<h1 align="center">
-  Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px" alt="Hi" />
-  I'm Arnab Mitra
-</h1>
+# Hi, I'm Arnab Mitra 👋
 
-<div align="center">
-  <img src="./banner.png" width="100%" alt="Banner" />
-</div>
+### Front-end Developer · React · Next.js · TypeScript
 
-<div align="center">
-  <a href="https://arnabmitra.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-arnabmitra.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/mitrarnab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/MITRARNAB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-MITRARNAB-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</div>
+I build clean, responsive, and user-focused web experiences with modern front-end technologies.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MITRARNAB&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
+<img src="./banner.png" width="100%" alt="Arnab Mitra — Front-end Developer" />
+
+<p>
+  <a href="https://arnabmitra.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/mitrarnab">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MITRARNAB">
+    <img src="https://img.shields.io/badge/GitHub-MITRARNAB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=MITRARNAB&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile views" />
+
+---
+
+## 👨‍💻 About Me
+
+I'm a developer focused on building **clean, practical, and user-friendly digital experiences**. I enjoy transforming ideas into responsive products that are both functional and polished.
+
+* 🔭 Currently working on **Something Interesting**
+* 🌱 Currently learning **Backend Development**
+* 🤝 Open to collaborating on **Development Projects**
+* 💡 Interested in **Competitive Programming & Continuous Learning**
+* 📚 Exploring modern tools, frameworks, and engineering best practices
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" />
+</p>
+
+### Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <p>I'm a developer focused on building clean, practical, and user-friendly digital experiences. I enjoy turning ideas into products that are both functional and polished.</p>
-      <ul>
-        <li>🔭 Currently working on <code>Something Interesting</code></li>
-        <li>🌱 Learning <code>Backend Development</code></li>
-        <li>🤝 Open to collaborating on <code>Development Projects</code></li>
-        <li>💡 Interested in <code>Competitive Programming</code> and continuous learning</li>
-        <li>📚 Always exploring modern tools, frameworks, and engineering best practices</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <img src="./coder.gif" width="100%" alt="Coding animation" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Activity
 
-## 🌐 Socials
+## 📊 GitHub Activity
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mitrarnab0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mitrarnab0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mitrarnab)
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MITRARNAB&show_icons=true&hide_border=true&theme=tokyonight"
+    alt="GitHub statistics"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITRARNAB&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Top programming languages"
+    height="170"
+  />
+</p>
 
----
 
-# 💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://streak-stats.demolab.com/?user=MITRARNAB&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MITRARNAB&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</div>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=MITRARNAB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MITRARNAB&theme=github_dark&hide_border=false" alt="GitHub streak stats" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITRARNAB&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
-</div>
+## 🌐 Connect
 
-## 🏆 GitHub Trophies
+<p>
+  <a href="https://arnabmitra.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/mitrarnab">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MITRARNAB">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://facebook.com/mitrarnab0">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/mitrarnab0">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MITRARNAB&theme=solarized-dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies" />
-</div>
+---
 
-### ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
-</div>
+<sub>Thanks for visiting my profile. Feel free to explore my repositories and connect with me.</sub>
