@@ -13,12 +13,15 @@ I build clean, responsive, and user-focused web experiences with modern front-en
   <a href="https://linkedin.com/in/mitrarnab">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/MITRARNAB">
-    <img src="https://img.shields.io/badge/GitHub-MITRARNAB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Mitrarnab">
+    <img src="https://img.shields.io/badge/GitHub-Mitrarnab-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MITRARNAB&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile views" />
+<img
+  src="https://komarev.com/ghpvc/?username=Mitrarnab&label=Profile%20Views&color=0A66C2&style=flat-square"
+  alt="Profile views"
+/>
 
 ---
 
@@ -26,11 +29,11 @@ I build clean, responsive, and user-focused web experiences with modern front-en
 
 I'm a developer focused on building **clean, practical, and user-friendly digital experiences**. I enjoy transforming ideas into responsive products that are both functional and polished.
 
-* 🔭 Currently working on **Something Interesting**
-* 🌱 Currently learning **Backend Development**
-* 🤝 Open to collaborating on **Development Projects**
-* 💡 Interested in **Competitive Programming & Continuous Learning**
-* 📚 Exploring modern tools, frameworks, and engineering best practices
+- 🔭 Currently working on **Something Interesting**
+- 🌱 Currently learning **Backend Development**
+- 🤝 Open to collaborating on **Development Projects**
+- 💡 Interested in **Competitive Programming & Continuous Learning**
+- 📚 Exploring modern tools, frameworks, and engineering best practices
 
 ---
 
@@ -72,15 +75,17 @@ I'm a developer focused on building **clean, practical, and user-friendly digita
 
 ## 📊 GitHub Activity
 
-## 📊 GitHub Activity
-
-![GitHub Statistics](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
-
-
 <p>
-  <img src="https://streak-stats.demolab.com/?user=MITRARNAB&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub statistics"
+    height="170"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Top programming languages"
+    height="170"
+  />
 </p>
 
 ---
@@ -88,28 +93,31 @@ I'm a developer focused on building **clean, practical, and user-friendly digita
 ## 🏆 GitHub Achievements
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=MITRARNAB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <img
+    src="./profile/trophies.svg"
+    alt="GitHub achievements"
+  />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p>
   <a href="https://arnabmitra.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/mitrarnab">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/MITRARNAB">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Mitrarnab">
+    <img src="https://img.shields.io/badge/GitHub-Mitrarnab-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://facebook.com/mitrarnab0">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/mitrarnab0">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
