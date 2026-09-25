@@ -74,19 +74,9 @@ I'm a developer focused on building **clean, practical, and user-friendly digita
 
 ## 📊 GitHub Activity
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MITRARNAB&show_icons=true&hide_border=true&theme=tokyonight"
-    alt="GitHub statistics"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITRARNAB&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Top programming languages"
-    height="170"
-  />
-</p>
+![GitHub Statistics](./profile/stats.svg)
 
+![Top Languages](./profile/top-langs.svg)
 
 
 <p>
