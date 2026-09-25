@@ -30,7 +30,7 @@
 
 ---
 
-## [![Visitors](https://visitcount.itsvg.in/api?id=MITRARNAB&icon=0&color=2)](https://visitcount.itsvg.in)
+## [![Profile Views](https://komarev.com/ghpvc/?username=MITRARNAB&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://github.com/MITRARNAB)
 
 # 💻 Tech Stack:
 
