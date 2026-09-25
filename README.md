@@ -1,39 +1,52 @@
 # Hi, I'm Arnab Mitra 👋
 
-### Front-end Developer · React · Next.js · TypeScript
+### Frontend Developer · React · Next.js · TypeScript
 
-I build clean, responsive, and user-focused web experiences with modern front-end technologies.
+I build responsive, elegant, and user-centered web experiences with a strong focus on performance, clarity, and clean design.
 
-<img src="./banner.png" width="100%" alt="Arnab Mitra — Front-end Developer" />
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Arnab Mitra banner" />
+</div>
 
-<p>
-  <a href="https://arnabmitra.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+<p align="center">
+  <a href="https://arnabmitra.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/mitrarnab">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/mitrarnab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Mitrarnab">
-    <img src="https://img.shields.io/badge/GitHub-Mitrarnab-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Mitrarnab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Mitrarnab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<img
-  src="https://komarev.com/ghpvc/?username=Mitrarnab&label=Profile%20Views&color=0A66C2&style=flat-square"
-  alt="Profile views"
-/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mitrarnab&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a developer focused on building **clean, practical, and user-friendly digital experiences**. I enjoy transforming ideas into responsive products that are both functional and polished.
-
-- 🔭 Currently working on **Something Interesting**
-- 🌱 Currently learning **Backend Development**
-- 🤝 Open to collaborating on **Development Projects**
-- 💡 Interested in **Competitive Programming & Continuous Learning**
-- 📚 Exploring modern tools, frameworks, and engineering best practices
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        I'm a developer focused on building <strong>clean, practical, and user-friendly digital experiences</strong>. I enjoy transforming ideas into responsive products that are both functional and visually polished.
+      </p>
+      <ul>
+        <li>🔭 Currently working on <strong>Something Interesting</strong></li>
+        <li>🌱 Currently learning <strong>Backend Development</strong></li>
+        <li>🤝 Open to collaborating on <strong>Development Projects</strong></li>
+        <li>💡 Interested in <strong>Competitive Programming</strong> and continuous growth</li>
+        <li>📚 Exploring modern tools, frameworks, and engineering best practices</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="./coder.gif" width="260" alt="Coder illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -75,52 +88,43 @@ I'm a developer focused on building **clean, practical, and user-friendly digita
 
 ## 📊 GitHub Activity
 
-<p>
-  <img
-    src="./profile/stats.svg"
-    alt="GitHub statistics"
-    height="170"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    alt="Top programming languages"
-    height="170"
-  />
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub statistics" height="170" />
+  <img src="./profile/top-langs.svg" alt="Top programming languages" height="170" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<p>
-  <img
-    src="./profile/trophies.svg"
-    alt="GitHub achievements"
-  />
+<p align="center">
+  <img src="./profile/trophies.svg" alt="GitHub achievements" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://arnabmitra.vercel.app/">
+<p align="center">
+  <a href="https://arnabmitra.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/mitrarnab">
+  <a href="https://linkedin.com/in/mitrarnab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Mitrarnab">
+  <a href="https://github.com/Mitrarnab" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Mitrarnab-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://facebook.com/mitrarnab0">
+  <a href="https://facebook.com/mitrarnab0" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/mitrarnab0">
+  <a href="https://instagram.com/mitrarnab0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-<sub>Thanks for visiting my profile. Feel free to explore my repositories and connect with me.</sub>
+<p align="center">
+  <sub>Thanks for visiting my profile. Feel free to explore my repositories and connect with me.</sub>
+</p>
